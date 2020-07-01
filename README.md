@@ -6,4 +6,4 @@ Then, slowly introduce new concepts like CDN links/packages to give the website 
 
 Integrating new conecpts to fit both the web and mobile optimizations and have the least amount of visual errors as possible.
 
-More advance concepts later introduce to undertand the Front-End atmosphere to eventually leading to learn for back-end and combine both for a amazing future Full-Stack Developer.
+More advance concepts later introduce to understand the Front-End atmosphere to eventually leading to learn for back-end and combine both for a amazing future Full-Stack Developer.
